@@ -2,11 +2,6 @@
 
 An AI-powered web application for analyzing Arabic e-commerce reviews and classifying them into Positive, Negative, and Neutral sentiments using MARBERT and Natural Language Processing (NLP) techniques. The system helps businesses understand customer feedback, measure satisfaction, and make data-driven decisions through interactive visualizations.
 
-## Landing Page
-
-![Landing Page](landing-page.png)
-
-The landing page introduces the platform and highlights its key benefits, including customer satisfaction analysis, performance improvement, and smart decision-making.
 
 ## System Interface
 
